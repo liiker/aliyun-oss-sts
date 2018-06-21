@@ -1,5 +1,5 @@
 {
-    "name": "hpyer/aliyun-sts",
+    "name": "liiker/aliyun-oss-sts",
     "description": "Aliyun-STS SDK",
     "keywords": ["aliyun", "sts", "oss"],
     "homepage": "https://github.com/liiker/aliyun-oss-sts",
