@@ -2,7 +2,7 @@
     "name": "hpyer/aliyun-sts",
     "description": "Aliyun-STS SDK",
     "keywords": ["aliyun", "sts", "oss"],
-    "homepage": "http://github.com/hpyer/aliyun-sts",
+    "homepage": "https://github.com/liiker/aliyun-oss-sts",
     "license": "MIT",
     "authors": [
         {
